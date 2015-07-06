@@ -1,0 +1,4 @@
+services:
+#    jaimeestadistica.example:
+#        class: Jaime\estadisticaBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
