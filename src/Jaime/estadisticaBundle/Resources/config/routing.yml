@@ -2,5 +2,5 @@ jaimeestadistica_homepage:
     path:     /hello/{name}
     defaults: { _controller: JaimeestadisticaBundle:Default:index }
 jaimeestadistica_login:
-    path:     /Login
-    defaults: { _controller: JaimeestadisticaBundle:Default:Login }
+    path:     /login
+    defaults: { _controller: JaimeestadisticaBundle:Default:login }

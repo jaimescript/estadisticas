@@ -10,9 +10,8 @@ class DefaultController extends Controller
     {
         return $this->render('JaimeestadisticaBundle:Default:index.html.twig', array('name' => $name));
     }
-    public function LoginAction()
+    public function loginAction()
     {
         return $this->render('JaimeestadisticaBundle:Default:Login.html.twig');
-
     }
 }
